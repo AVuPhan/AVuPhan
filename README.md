@@ -1,11 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="225"/>
 </div>
+
 ---
-### Hi there 👋
-- 😄 My name is Andy
+
+### :man_technologist: About Me :
+- Hi there 👋 My name is Andy
 - 🏫 I am a senior studying computer science at UST
-- 📫 You can reach me via LinkedIn
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/andyvphan/)
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -17,5 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVuPhan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
