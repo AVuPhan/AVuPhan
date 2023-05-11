@@ -26,7 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVuPhan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### My Projects 🗻 (For Senior Capstone write-up)
+### My Projects 🗻 (For Senior Capstone portfolio)
 - 👨 [Personal Website](https://github.com/AVuPhan/Personal-Website)
 - 🖥️ [Buddy Buffer Manager](https://github.com/AVuPhan/CISC310)
 - 🔫 [St. Paul Crime Visualizer](https://github.com/AVuPhan/RESTful-API)
