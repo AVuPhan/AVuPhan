@@ -28,5 +28,14 @@
 ---
 ### My Projects 🗻 (For Senior Capstone portfolio)
 - 👨 [Personal Website](https://github.com/AVuPhan/Personal-Website)
+  - This is my personal website.
+  - It has information about my life, including my resume.
+  - Site is up to date as of October 2022.
 - 🖥️ [Buddy Buffer Manager](https://github.com/AVuPhan/CISC310)
+  - This is a large homework assignment from an operating systems class.
+  - Implement a buddy buffer manager with allocate & deallocate memory alogorithms.
 - 🔫 [St. Paul Crime Visualizer](https://github.com/AVuPhan/RESTful-API)
+  - This is a crime incident visualizer for the city of St. Paul.
+  - This project is from a web development class.
+  - Collaborated with 2 other people from class.
+  - Site is up to date as of December 2022.
